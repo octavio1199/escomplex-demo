@@ -1,0 +1,22 @@
+{
+  "name": "escomplex-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.5.5",
+    "escomplex": "2.0.0-alpha",
+    "esprima": "4.0.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/node": "^20.8.0"
+  }
+}
